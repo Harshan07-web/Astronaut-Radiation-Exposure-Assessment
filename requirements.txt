@@ -1,0 +1,41 @@
+numpy
+pandas
+scikit-learn
+
+# Deep Learning (Transformer)
+torch
+transformers
+datasets
+accelerate
+
+# NLP / Embeddings
+sentence-transformers
+faiss-cpu
+
+# Database
+pymongo
+
+# API & Backend
+fastapi
+uvicorn
+
+# Data Fetching
+requests
+
+# Environment & Config
+python-dotenv
+
+# Logging & Utilities
+loguru
+tqdm
+
+# Evaluation
+matplotlib
+
+# Testing
+pytest
+
+
+# Optional (useful extras)
+jupyter
+notebook
